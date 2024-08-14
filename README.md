@@ -20,4 +20,4 @@ This project is **not** affiliated with Realtek or any OEMs like Dell, HP, Lenov
 
 ## License
 
-This project is provided under the MIT [License](license). Note that this license applies to the code in this repository, not to the actual driver files.
+This project is provided under the MIT [License](LICENSE). Note that this license applies to the code in this repository, not to the actual driver files.

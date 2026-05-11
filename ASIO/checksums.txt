@@ -1,0 +1,30 @@
+# Realtek ASIO Driver - File Checksums
+# Generated from release v1.0.0
+# Source: Official Realtek HD Audio OEM driver package
+#
+# How to verify (Windows PowerShell):
+#   Get-FileHash .\<filename> -Algorithm SHA256
+#
+# How to verify (Linux/macOS):
+#   sha256sum <filename>
+#
+# Format: SHA256  filename
+# -----------------------------------------------------------------------
+# NOTE: SHA256 hashes below must be populated by running the verification
+# script on the original files. Run ASIO/generate-checksums.ps1 (Windows)
+# or `sha256sum ASIO/*` (Linux/macOS) and update this file before release.
+# -----------------------------------------------------------------------
+
+# Git object SHA1 (for reference only - not SHA256 of file content):
+# Install.exe     git-sha1: 8e53aed770f349a86900aa62a122356ecd94ce82  size: 597720 bytes
+# RTASIOCP.dll    git-sha1: 2d4beec5d427466ebbcdd392b54a491fcc59a736  size: 1798360 bytes
+# RTASIOCP64.dll  git-sha1: bb9f736b20a0237273464ac5c6db0f6342cf1063  size: 2521304 bytes
+# RTHDASIO.dll    git-sha1: 040ae559a612fa3c96a4967dea79674c61b1955e  size: 141016 bytes
+# RTHDASIO64.dll  git-sha1: dab2f776c37439482fca4555eb8fcb26c92ef1d8  size: 165592 bytes
+
+# SHA256 (populate by running generate-checksums.ps1 or sha256sum):
+<SHA256_PLACEHOLDER>  Install.exe
+<SHA256_PLACEHOLDER>  RTASIOCP.dll
+<SHA256_PLACEHOLDER>  RTASIOCP64.dll
+<SHA256_PLACEHOLDER>  RTHDASIO.dll
+<SHA256_PLACEHOLDER>  RTHDASIO64.dll

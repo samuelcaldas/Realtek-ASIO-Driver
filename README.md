@@ -64,8 +64,7 @@ The package in this repository is a standalone extraction for easy installation.
 - `RealtekASIO_9` — recommended when multichannel mapping is required.
 - `RealtekASIO_14` (`RTHDASIO64.dll` `3.1.14.3`) — reported as potentially unstable.
 
-Reference archive:
-- <https://drive.google.com/drive/folders/1mXJ62HJFlSj5qCO9qf3mTx0v9tyWN5vT>
+Community backup archive: <https://drive.google.com/drive/folders/1mXJ62HJFlSj5qCO9qf3mTx0v9tyWN5vT>
 
 > If you contribute newer files, please include provenance (OEM package name/version or Windows Update Catalog package ID) so source history can be documented in releases.
 

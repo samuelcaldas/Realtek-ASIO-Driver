@@ -56,6 +56,19 @@ sha256sum ASIO/RTHDASIO64.dll
 
 I am not able to update the driver files themselves since they are managed by Realtek. However, if an updated version is released, I will include it in this repository. Please check back periodically or contribute updates if you find new versions.
 
+### Community-tested variants
+
+The package in this repository is a standalone extraction for easy installation. Community reports in the issue tracker also mention newer extracted variants:
+
+- `RealtekASIO_13` — latest stable recommendation for most users.
+- `RealtekASIO_9` — recommended when multichannel mapping is required.
+- `RealtekASIO_14` (`RTHDASIO64.dll` `3.1.14.3`) — reported as potentially unstable.
+
+Reference archive:
+- <https://drive.google.com/drive/folders/1mXJ62HJFlSj5qCO9qf3mTx0v9tyWN5vT>
+
+> If you contribute newer files, please include provenance (OEM package name/version or Windows Update Catalog package ID) so source history can be documented in releases.
+
 ## Contributing
 
 If you come across a newer version of the Realtek ASIO driver, please let me know by opening an issue in the **[Issues tab](https://github.com/samuelcaldas/Realtek-ASIO-Driver/issues)**. Contributions are welcome to help keep this project up-to-date.
